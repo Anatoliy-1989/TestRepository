@@ -1,6 +1,6 @@
 ' convert it with additional command line argument -DRELATIVE_INCLUDE="relative/absolute" to use locally
 
-!include C4_Container.puml
+!include ./C4_Container.puml
 
 ' Scope: A single container.
 ' Primary elements: Components within the container in scope.
