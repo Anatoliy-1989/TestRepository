@@ -28,6 +28,7 @@ jobs:
     - name: Generate Diagrams
       run: |
         plantuml diagrams/code/*.puml
+        plantuml diagrams/context/*.puml
 
     - name: Commit Diagrams
       run: |
